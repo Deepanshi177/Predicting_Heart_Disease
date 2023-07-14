@@ -1,4 +1,4 @@
-# Predicting Heart Disease with Classification Machine Learning Algorithms
+# Predicting Heart Disease - Machine Learning Project
 
 # Scenario: 
 You have just been hired as a Data Scientist at a Hospital with an alarming number of patients coming in reporting various cardiac symptoms. A cardiologist measures vitals & hands you this data to perform Data Analysis and predict whether certain patients have Heart Disease. We would like to make a Machine Learning algorithm where we can train our AI to learn & improve from experience. Thus, we would want to classify patients as either positive or negative for Heart Disease.
