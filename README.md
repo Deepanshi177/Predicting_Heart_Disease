@@ -8,4 +8,4 @@ Predict whether a patient should be diagnosed with Heart Disease. This is a bina
 
 # Files:
 Predicting Heart Disease with Classification Machine Learning Algorithms.ipynb - Jupyter Notebook (.ipynb) version
-Predicting Heart Disease with Classification Machine Learning Algorithms.py - the Python (.py) version project heartDisease.csv - Original dataset used from Kaggle.com in CSV (.csv) format.
+Predicting Heart Disease with Classification Machine Learning Algorithms.py - the Python (.py) version project heartDisease.csv - Original dataset used from Kaggle.com in CSV (.csv) format
